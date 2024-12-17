@@ -5,11 +5,11 @@
 }
 
 :root {
-    --cor-principal: #b88fb8; /* Lilás suave */
-    --cor-secundaria: #f7d5e3; /* Rosa claro */
-    --cor-destaque: #9c6b9c; /* Lilás mais escuro */
-    --cor-texto: #4a314a; /* Roxo escuro para texto */
-    --cor-fundo: #fff9fb; /* Branco rosado */
+    --cor-principal: #89CFF0; /* Azul claro */
+    --cor-secundaria: #E0FFFF; /* Azul mais claro */
+    --cor-destaque: #4682B4; /* Azul médio */
+    --cor-texto: #1B4F72; /* Azul escuro para texto */
+    --cor-fundo: #F0F8FF; /* Azul bem clarinho para fundo */
 }
 
 body {
